@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @baclava69
-- 👀 I’m interested in Lua and JS.
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: baclava#3967
+- 👋 Hello, my name is baclava. I recently started to expand my imagination around 2 years ago in Lua and JS. I do wish to achieve more by learning new languages such as Java.
+- I have recently started learning Java around a month ago and hope to expand my creativity.
